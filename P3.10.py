@@ -1,6 +1,8 @@
 import mlflow
 import pandas as pd
 
+#3.10) Escrever um código Cliente para carregar os modelos registrados e exibir as informações desses modelos com a sua descrição.
+
 # Configura o cliente MLflow com o URL fornecido pelo NGROK
 mlflow.set_tracking_uri("https://ef00-35-231-71-79.ngrok-free.app/")
 
