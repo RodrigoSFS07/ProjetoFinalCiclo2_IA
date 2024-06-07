@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 
 #Url: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
-#Breast Cancer Wisconsin (Diagnostic) Data Set, objetivo prever se o câncer é benigno ou maligno.
+#1) Breast Cancer Wisconsin (Diagnostic) Data Set, objetivo prever se o câncer é benigno ou maligno.
 # Carregar o dataset
 
 dataset = pd.read_csv('C:/Users/Rodrigo/Downloads/archive/data.csv')
