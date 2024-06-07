@@ -7,6 +7,8 @@ from sklearn.metrics import accuracy_score
 import mlflow
 import numpy as np
 
+#3.1) Escolher 3 algoritmos de aprendizado de máquina diferentes com 3 variações de parâmetros para cada um deles. Um total de 9 variações;
+
 # Definir experimento e conectar ao MLflow
 exp_mlflow_ciclo2 = "exp_projeto_ciclo_2"
 mlflow.set_tracking_uri("https://ef00-35-231-71-79.ngrok-free.app/")
