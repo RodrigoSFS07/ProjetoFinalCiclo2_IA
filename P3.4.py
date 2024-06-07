@@ -5,6 +5,10 @@ from sklearn.ensemble import BaggingClassifier, RandomForestClassifier
 from sklearn.metrics import accuracy_score
 import mlflow
 
+#3.4) Testar todos os métodos de seleção dinâmica (OLA, LCA, KNORAU,KNORA-E e MCB) com os modelos gerados com o Bagging e
+#também com os modelos gerados com o RandomForest; (métodos de seleção dinâmica serão um plus para quem fizer e não será mais
+#obrigatório!)
+
 #Para contornar erros de carregamento de modelos de machine learning, como "undefined" (3.4), optei por implementar os modelos diretamente no código-fonte.
 #essa solução foi escolhida como último recurso para garantir o desenvolvimento contínuo do sistema.
 #embora essa abordagem possa ter algumas limitações, como menor flexibilidade e escalabilidade, ela foi documentada de forma clara para facilitar a
