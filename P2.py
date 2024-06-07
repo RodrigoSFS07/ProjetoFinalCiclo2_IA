@@ -1,6 +1,9 @@
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 
+#2) Analisar o dataset usando os métodos do Pandas. Comparar as features e verificar se há valores nulos, correspondência entre features,
+#converter os labels para números e features categóricas usar One-Hot Encoder. Normalizar as features na escala 0..1.
+
 # Carregar o dataset
 dataset = pd.read_csv('C:/Users/Rodrigo/Downloads/archive/data.csv')
 
