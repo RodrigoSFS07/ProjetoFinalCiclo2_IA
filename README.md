@@ -1,4 +1,4 @@
-O projeto "Capacitação IA e IoT" faz parte de uma iniciativa liderada pela Softex em parceria com o Ministério da Ciência, Tecnologia e Inovações (MCTI), o objetivo do projeto final do Ciclo 2 é aplicar o conhecimento adquirido ao longo do ciclo, especialmente em relação aos modelos de aprendizado de máquina.
+O projeto de Capacitação IA e IoT faz parte de uma iniciativa liderada pela Softex em parceria com o Ministério da Ciência, Tecnologia e Inovações (MCTI), o objetivo do projeto final do Ciclo 2 é aplicar o conhecimento adquirido ao longo do ciclo, especialmente em relação aos modelos de aprendizado de máquina.
 
 Etapas do projeto:
 
