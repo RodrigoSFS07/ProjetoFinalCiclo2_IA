@@ -9,9 +9,13 @@ Análise de Dados com Pandas: Os dados devem ser explorados e preparados usando 
 Execução de Experimentos com MLflow:
 
 3.1) Escolher 3 algoritmos de aprendizado de máquina com 3 variações de parâmetros cada, totalizando 9 variações.
+
 3.2) Testar Bagging e RandomForest com parâmetros padrão ou personalizados.
+
 3.3) Executar experimentos com GradientBoosting, XGBoost e LightGBM, com parâmetros padrão ou personalizados.
+
 3.4) Testar métodos de seleção dinâmica com os modelos gerados com Bagging e RandomForest.
+
 3.5) Calcular métricas como Acurácia, Precision, Recall, Sensibilidade, AUC (classificação) ou MSE, RMSE, MAPE (regressão) usando validação cruzada de 10 folds.
 3.6) Utilizar 2 métodos de seleção de features para todos os experimentos.
 3.7) Registrar todas as execuções no MLflow Tracking.
