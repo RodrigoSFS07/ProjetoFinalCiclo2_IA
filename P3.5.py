@@ -6,6 +6,8 @@ from sklearn.metrics import make_scorer
 import mlflow
 import numpy as np
 
+#3.5) Para todos os experimentos o cálculo das métricas (Acurácia, Precision, Recall, Specificity, AUC (classificação);
+
 # Nome do experimento no MLflow
 exp_mlflow_ciclo2 = "exp_projeto_ciclo_2"
 
