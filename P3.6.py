@@ -5,6 +5,8 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 import mlflow
 
+#3.6) Utilizar 1 método de seleção de features para todos os experimentos (usar só um método de seleção de features);
+
 # Nome do experimento no MLflow
 exp_mlflow_ciclo2 = "exp_projeto_ciclo_2"
 
