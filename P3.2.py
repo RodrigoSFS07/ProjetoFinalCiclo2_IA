@@ -4,6 +4,8 @@ from sklearn.ensemble import RandomForestClassifier, BaggingClassifier
 import mlflow
 import numpy as np
 
+#3.2) Testar também o Bagging e RandomForest com parâmetros padrão ou alguma parametrização customizada (caso queira);
+
 # Nome do experimento no MLflow
 exp_mlflow_ciclo2 = "exp_projeto_ciclo_2"
 
