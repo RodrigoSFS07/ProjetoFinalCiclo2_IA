@@ -6,6 +6,8 @@ from lightgbm import LGBMClassifier
 import mlflow
 import numpy as np
 
+#3.3) Executar experimentos com o GradientBoosting, XGBoost e LightGBM, com parâmetros padrão ou alguma parametrização customizada;
+
 # Nome do experimento no MLflow
 exp_mlflow_ciclo2 = "exp_projeto_ciclo_2"
 
