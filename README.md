@@ -1,12 +1,26 @@
-Projeto de Capacitação, ASSERT-IFPB (IA e IoT)
-
-O projeto de Capacitação IA e IoT faz parte de uma iniciativa liderada pela Softex em parceria com o Ministério da Ciência, Tecnologia e Inovações (MCTI). O objetivo é aplicar o conhecimento adquirido no Ciclo 2, focando em modelos de aprendizado de máquina.
-
+<h1 align="center">📡 Projeto Final - Capacitação de IoT (Ciclo 2)</h1>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/username/your-repository-name?color=green">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/username/your-repository-name?color=green">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/username/your-repository-name?color=green">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/username/your-repository-name?color=green">
+</p>
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/507f2d8a-e2e3-42a3-b309-fb28ac06aebb" alt="Projeto de Capacitação IA e IoT" />
+  <h3 align="center">Assert IFPB</h3>
+  <img src="https://github.com/user-attachments/assets/507f2d8a-e2e3-42a3-b309-fb28ac06aebb" alt="Projeto de Capacitação IA e IoT" height="600" width="600"><br>
+</div>
+<div style="display: inline_block" ><br>
+    <h3>✅ Objetivo</h3>
+    <p>O projeto de Capacitação IA e IoT faz parte de uma iniciativa liderada pela Softex em parceria com o Ministério da Ciência, Tecnologia e Inovações (MCTI). O objetivo é aplicar o conhecimento adquirido no Ciclo 2, focando em modelos de aprendizado de máquina.</p>
+</div>
+<div style="display: inline_block" ><br>
+    <h3>💻 Tecnologias e Ferramentas </h3>
+    <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img alt="MLflow" src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white">
 </div>
 
-Etapas do Projeto
+## Etapas do Projeto
 
 1. **Obtenção de Dataset**: Escolher um conjunto de dados de classificação ou regressão de fontes como SkLearn, Seaborn, UCI, Kaggle, entre outros.
 
