@@ -1,4 +1,4 @@
-<h1 align="center">🏅 Projeto Final - Capacitação de IoT (Ciclo 2)</h1>
+<h1 align="center">🏅 Projeto Final - Capacitação de IA (Ciclo 2)</h1>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/username/your-repository-name?color=green">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/username/your-repository-name?color=green">
