@@ -10,11 +10,11 @@
   <img src="https://github.com/user-attachments/assets/507f2d8a-e2e3-42a3-b309-fb28ac06aebb" alt="Projeto de Capacitação IA e IoT" height="600" width="600"><br>
 </div>
 <div style="display: inline_block" ><br>
-    <h3>✅ Objetivo</h3>
+    <h3>✅ Objetivos</h3>
     <p>O projeto de Capacitação IA e IoT faz parte de uma iniciativa liderada pela Softex em parceria com o Ministério da Ciência, Tecnologia e Inovações (MCTI). O objetivo é aplicar o conhecimento adquirido no Ciclo 2, focando em modelos de aprendizado de máquina.</p>
 </div>
 <div style="display: inline_block" ><br>
-    <h3>💻 Tecnologias e Ferramentas </h3>
+    <h3>🖥️ Tecnologias </h3>
     <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
     <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img alt="MLflow" src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white">
