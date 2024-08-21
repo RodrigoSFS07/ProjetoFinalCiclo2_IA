@@ -1,10 +1,4 @@
 <h1 align="center">🏅 Projeto Final - Capacitação de IA (Ciclo 2)</h1>
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/username/your-repository-name?color=green">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/username/your-repository-name?color=green">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/username/your-repository-name?color=green">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/username/your-repository-name?color=green">
-</p>
 <div align="center">
   <h3 align="center">Assert IFPB</h3>
   <img src="https://github.com/user-attachments/assets/507f2d8a-e2e3-42a3-b309-fb28ac06aebb" alt="Projeto de Capacitação IA e IoT" height="600" width="600"><br>
