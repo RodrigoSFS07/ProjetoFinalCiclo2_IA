@@ -1,9 +1,9 @@
-Projeto de Capacitação IA e IoT
+Projeto de Capacitação, ASSERT-IFPB (IA e IoT)
 
 O projeto de Capacitação IA e IoT faz parte de uma iniciativa liderada pela Softex em parceria com o Ministério da Ciência, Tecnologia e Inovações (MCTI). O objetivo é aplicar o conhecimento adquirido no Ciclo 2, focando em modelos de aprendizado de máquina.
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/9827d17c-620d-4206-934b-a1149abb75da" alt="Projeto de Capacitação IA e IoT" />
+    <img src="https://github.com/user-attachments/assets/507f2d8a-e2e3-42a3-b309-fb28ac06aebb" alt="Projeto de Capacitação IA e IoT" />
 </div>
 
 Etapas do Projeto
