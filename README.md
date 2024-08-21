@@ -1,4 +1,4 @@
-<h1 align="center">📡 Projeto Final - Capacitação de IoT (Ciclo 2)</h1>
+<h1 align="center">🏅 Projeto Final - Capacitação de IoT (Ciclo 2)</h1>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/username/your-repository-name?color=green">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/username/your-repository-name?color=green">
@@ -10,7 +10,7 @@
   <img src="https://github.com/user-attachments/assets/507f2d8a-e2e3-42a3-b309-fb28ac06aebb" alt="Projeto de Capacitação IA e IoT" height="600" width="600"><br>
 </div>
 <div style="display: inline_block" ><br>
-    <h3>✅ Objetivos</h3>
+    <h3>🎯 Objetivos</h3>
     <p>O projeto de Capacitação IA e IoT faz parte de uma iniciativa liderada pela Softex em parceria com o Ministério da Ciência, Tecnologia e Inovações (MCTI). O objetivo é aplicar o conhecimento adquirido no Ciclo 2, focando em modelos de aprendizado de máquina.</p>
 </div>
 <div style="display: inline_block" ><br>
